@@ -1,0 +1,18 @@
+name:
+    copepod
+channels:
+    - conda-forge
+dependencies:
+    - cartopy
+    - conda-lock
+    - esmpy
+    - jupyterlab
+    - python=3.8
+    - matplotlib
+    - netcdf4    
+    - numpy
+    - pandas
+    - pop-tools
+    - scipy
+    - xarray
+    - zarr

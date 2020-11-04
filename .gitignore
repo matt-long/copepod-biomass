@@ -1,0 +1,5 @@
+.ipynb_checkpoints/*
+PET0.RegridWeightGen.Log
+__pycache__/*
+environment/.ipynb_checkpoints/*
+data/regridding/*
